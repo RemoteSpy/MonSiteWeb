@@ -1,0 +1,19 @@
+body{
+  margin: 100px;
+  padding: 5px;
+  color: white;
+  text-align: Start;
+  background-color: black;
+  font: caption;
+}
+
+nav{
+  margin: 5px;
+  padding: 5px;
+  color: white;
+  text-align: end;
+}
+
+img{
+  padding: 5px;
+}
